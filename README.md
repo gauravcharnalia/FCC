@@ -1,2 +1,2 @@
 # FCC
-Projects done on FreeCodeCamp.com
+Challenges completed on FreeCodeCamp.com
