@@ -29,6 +29,7 @@ body {
   box-sizing: border-box;
   margin-right: 4px;
   cursor: pointer;
+  padding-bottom: 10px;
 }
 .box h2 {
   font-family: 'MerriWeather',cursive;
@@ -41,7 +42,14 @@ body {
   border-radius: 2px 2px 0 0;
   min-height: 300px;
 }
-
+.readMore {
+    color: #01579B;
+    margin: 5px 10px;
+}
+.box a:hover {
+    text-decoration: none;
+    border-bottom: 1px dotted #01579B;
+}
 footer {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
